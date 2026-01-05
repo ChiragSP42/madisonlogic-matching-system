@@ -11,3 +11,6 @@ wheels/
 
 # Database files
 *.csv
+
+# JSONs
+*.json

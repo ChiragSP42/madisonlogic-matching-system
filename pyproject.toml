@@ -6,5 +6,6 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "meilisearch>=0.38.0",
+    "meilisearch-python-sdk>=5.7.0",
     "pandas>=2.3.3",
 ]
