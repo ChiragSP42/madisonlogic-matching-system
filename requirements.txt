@@ -1,3 +1,4 @@
 meilisearch
 pandas
 meilisearch-python-sdk
+boto3
